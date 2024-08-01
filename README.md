@@ -49,7 +49,7 @@ Setup and Installation
 
 1.  **Clone the Repository**
 
-    `git clone [<repository-url>](https://github.com/shwetalakkundi/address_book.git)
+    `git clone https://github.com/shwetalakkundi/address_book.git
     cd address_book`
 
 2.  **Set up a Virtual Environment**
